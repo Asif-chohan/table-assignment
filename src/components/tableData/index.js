@@ -1,4 +1,3 @@
-import { useState } from "react";
 import MaterialTable from "material-table";
 import tableInitData from "./data";
 import useTableHandler from "../../customHooks/useTableHandler";
